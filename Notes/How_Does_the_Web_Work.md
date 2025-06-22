@@ -40,7 +40,7 @@ Additional notes:
 TCP/IP: Transmision Control Protocol (TCP) and Internet Protocol (IP) are communication protocols that define how data should travel accross the internet.
 DNS: The Domain Name System (DNS) is like and 'actual address' book for websites.
 HTTP: Hypertext Transfer Protocol (HTTP) is an application protocol that defines a language for clients and servers to speak to each other.
----
+
 URL: URLs define the locations of unique resources on the internet. Technically, web addresses that you type into the browser address bar form part of Uniform Resource Locators (URLs). URL = a web address + a protocol.
 e.g.:
 `https://developer.mozilla.org/en-US/`
