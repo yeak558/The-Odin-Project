@@ -37,11 +37,10 @@ An Internet Protocol address is a numerical label such as 192.0.2.1 that is assi
 When users type domain names into the URL bar in their browser, DNS servers are responsible for translating those domain names to numeric IP addresses, leading them to the correct website.
 
 Additional notes:
-TCP/IP: Transmision Control Protocol (TCP) and Internet Protocol (IP) are communication protocols that define how data should travel accross the internet.
-DNS: The Domain Name System (DNS) is like and 'actual address' book for websites.
-HTTP: Hypertext Transfer Protocol (HTTP) is an application protocol that defines a language for clients and servers to speak to each other.
-
-URL: URLs define the locations of unique resources on the internet. Technically, web addresses that you type into the browser address bar form part of Uniform Resource Locators (URLs). URL = a web address + a protocol.
+- TCP/IP: Transmision Control Protocol (TCP) and Internet Protocol (IP) are communication protocols that define how data should travel accross the internet.
+- DNS: The Domain Name System (DNS) is like and 'actual address' book for websites.
+- HTTP: Hypertext Transfer Protocol (HTTP) is an application protocol that defines a language for clients and servers to speak to each other.
+- URL: URLs define the locations of unique resources on the internet. Technically, web addresses that you type into the browser address bar form part of Uniform Resource Locators (URLs). URL = a web address + a protocol.
 e.g.:
 `https://developer.mozilla.org/en-US/`
 The main parts of the URL are:
